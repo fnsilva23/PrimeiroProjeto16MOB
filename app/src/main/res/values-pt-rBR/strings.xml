@@ -8,4 +8,6 @@
     <string name="hint_altura">Sua altura em centímetros</string>
     <string name="botao_calcular">Calcular</string>
     <string name="botao_limpar">Limpar</string>
+    <string name="label_titulo_resultado">Seu IMC é:</string>
+    <string name="label_rodape">Desenvolvido por Fernando</string>
 </resources>
