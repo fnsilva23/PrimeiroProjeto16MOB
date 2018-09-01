@@ -9,4 +9,5 @@
     <string name="botao_limpar">Clean</string>
     <string name="label_titulo_resultado">Your IMC is:</string>
     <string name="label_rodape">Develop By Fernando</string>
+    <string name="label_abaixo_peso">Under Weigth</string>
 </resources>

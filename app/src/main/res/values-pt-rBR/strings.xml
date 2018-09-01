@@ -10,4 +10,10 @@
     <string name="botao_limpar">Limpar</string>
     <string name="label_titulo_resultado">Seu IMC é:</string>
     <string name="label_rodape">Desenvolvido por Fernando</string>
+    <string name="label_magreza">Magreza</string>
+    <string name="label_peso_ideal">Peso ideal</string>
+    <string name="label_sobrepeso">Levemente acima do peso</string>
+    <string name="label_obesidade1">Obesidade 1</string>
+    <string name="label_obesidade2">Obesidade 2</string>
+    <string name="label_abaixo_peso">Abaixo do Peso</string>
 </resources>
